@@ -1,25 +1,4 @@
-# 🌈 Mood Mixer
-
-> A simple and colourful mood-based web app built with Python and Streamlit.
-
-## 💭 About
-
-Mood Mixer is an interactive app where users can choose how they are feeling and get a fun personalised result. The app matches the selected mood with an emoji and a short message, then generates a random Good Vibes score.
-
-I made Mood Mixer as a small project to practise Python while learning how to create an interactive web application with Streamlit. I also wanted to experiment with CSS and make the app feel colourful, simple, and enjoyable to use.
-
-## ✨ Features
-
-- 🌷 Choose from different moods
-- 😊 Mood-specific emojis
-- 💬 Personalised messages
-- ✨ Random Good Vibes score
-- 🎨 Soft pastel interface
-- 🖥️ Interactive Streamlit web app
-
-## 🛠️ Built With
-
-- **Python** — main programming language
-- **Streamlit** — used to build the web interface
-- **HTML/CSS** — used for the custom styling
-- **Random** — used to generate the Good Vibes score
+Mood Mixer
+Mood Mixer is a small app where you choose your mood and it gives you a random good vibes score and a message.
+I made this because I wanted to make something simple and fun that people could use when they want a little mood boost.
+First you choose your mood from the dropdown. Then you click the mix button and the app shows a message, emoji and a random good vibes percentage.
